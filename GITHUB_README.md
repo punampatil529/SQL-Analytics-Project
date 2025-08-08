@@ -1,8 +1,4 @@
-# 🚀 Quick Start Guide for GitHub
 
-## Your SQL Analytics Project is Ready to Push! 
-
-### What You Have Created:
 ✅ **Complete SQL Analytics Project** with MySQL and Power BI  
 ✅ **Real-world business scenario** - Electronics retailer analysis  
 ✅ **Learning roadmap** - 6-week structured journey  
