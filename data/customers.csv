@@ -1,0 +1,14 @@
+-- Sample customers data
+-- This file contains sample customer data for the analytics project
+
+CustomerID,FirstName,LastName,Email,City,Country,RegistrationDate,CustomerSegment
+1,John,Smith,john.smith@email.com,New York,USA,2023-01-15,Premium
+2,Sarah,Johnson,sarah.j@email.com,London,UK,2023-02-20,Standard
+3,Mike,Brown,mike.brown@email.com,Toronto,Canada,2023-01-28,Premium
+4,Emma,Davis,emma.davis@email.com,Sydney,Australia,2023-03-10,Standard
+5,Chris,Wilson,chris.w@email.com,Berlin,Germany,2023-02-14,Basic
+6,Lisa,Anderson,lisa.anderson@email.com,Paris,France,2023-03-05,Premium
+7,David,Taylor,david.taylor@email.com,Tokyo,Japan,2023-01-30,Standard
+8,Anna,Martinez,anna.m@email.com,Madrid,Spain,2023-02-25,Basic
+9,Robert,Garcia,robert.g@email.com,Mexico City,Mexico,2023-03-12,Standard
+10,Jennifer,Lee,jennifer.lee@email.com,Seoul,South Korea,2023-01-18,Premium

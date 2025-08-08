@@ -1,0 +1,57 @@
+# Git ignore file for SQL Analytics Project
+
+# Database connection files with passwords
+*.env
+config.ini
+connection_strings.txt
+
+# MySQL data files
+*.ibd
+*.frm
+*.MYD
+*.MYI
+mysql-bin.*
+
+# Power BI temporary files
+*.tmp
+*.cache
+*.pbix.tmp
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+*.lnk
+
+# VS Code settings (optional - you might want to keep these)
+.vscode/settings.json
+
+# Logs
+*.log
+error.log
+mysql.log
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+# Node modules (if you add any Node.js components later)
+node_modules/
+
+# Python cache (if you add Python scripts later)
+__pycache__/
+*.pyc
+*.pyo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
